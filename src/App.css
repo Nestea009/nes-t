@@ -2,4 +2,19 @@
   text-align: center;
 }
 
+.mainText{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+}
 
+.mainText p{
+  margin: 0px;
+  width: 50%;
+}
+
+.mainText h1{
+  width: 50%;
+}
