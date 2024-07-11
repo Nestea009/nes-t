@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nes-t/static/css/main.964fdded.css",
+    "main.js": "/nes-t/static/js/main.58a7adff.js",
+    "static/js/453.3cf37822.chunk.js": "/nes-t/static/js/453.3cf37822.chunk.js",
+    "index.html": "/nes-t/index.html",
+    "main.964fdded.css.map": "/nes-t/static/css/main.964fdded.css.map",
+    "main.58a7adff.js.map": "/nes-t/static/js/main.58a7adff.js.map",
+    "453.3cf37822.chunk.js.map": "/nes-t/static/js/453.3cf37822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.58a7adff.js"
+  ]
+}
