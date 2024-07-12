@@ -18,3 +18,17 @@
 .mainText h1{
   width: 50%;
 }
+
+/* COULD CAUSE PROBLEMS, ERASE LATER */
+.testting{
+  visibility:hidden;
+}
+
+/* Media Starts */
+
+@media only screen and (max-width: 400px) {
+  .testting{
+    visibility:visible;
+  }
+}
+
