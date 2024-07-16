@@ -7,10 +7,16 @@
 
 .linkList{
   display: flex;
-  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  width: 200%;
 }
 
 .linkList a{
+  margin-left: 0.5%;
+  margin-right: 0.5%;
   text-align: center;
 }
 
