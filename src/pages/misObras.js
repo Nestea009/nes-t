@@ -1,4 +1,5 @@
 import React from "react";
+import "./styles/MisObrasStyles.css"
 
 export default function MisObras() {
      return (
