@@ -1,10 +1,9 @@
-import React from "react";
-import "./styles/MisObrasStyles.css"
+import "./styles/MisObras.css"
 
 export default function MisObras() {
      return (
        <div>
-         <p>This is the second page</p>
+         <p>MisObras</p>
        </div>
      );
  }

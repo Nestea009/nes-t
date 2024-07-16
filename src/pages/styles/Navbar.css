@@ -1,0 +1,19 @@
+.navbar {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.linkList{
+  display: flex;
+  flex-direction: column; 
+}
+
+.linkList a{
+  text-align: center;
+}
+
+.ej {
+ font-weight: bolder;
+}
