@@ -8,7 +8,6 @@ import Inicio from "./Inicio.js";
 export default function Navbar() {
   return (
     <div className="navbar">
-      <p className="ej">Navbar</p>
       <ul className="linkList">
       <a href="/MisObras">MisObras</a>
       <a href="/MisOtrosHobbies">MisOtrosHobbies</a>
@@ -17,7 +16,7 @@ export default function Navbar() {
       <Routes>
         <Route path="/MisObras" element={<MisObras/>}/>
         <Route path="/MisOtrosHobbies" element={<MisOtrosHobbies/>}/>
-        <Route path="/Inicio" element={<Inicio/>}/>
+        <Route path="/Inicio" element={<Inicio IsVisible = {true}/>}/>
       </Routes>
     </div>
   );

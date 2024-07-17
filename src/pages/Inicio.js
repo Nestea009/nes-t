@@ -1,9 +1,12 @@
 import "./styles/Inicio.css"
 
-export default function MisObras() {
-     return (
+export default function Inicio({IsVisible}) {
+     if (IsVisible) {
+      return (
        <div>
-         <p>Inicio</p>
+         <h1>Inicio</h1>
+         <p>Esto será el inicio</p>
        </div>
      );
+    }
  }
