@@ -2,7 +2,7 @@
 export default function MisOtrosHobbies(){
   return(
     <div>
-      <p>MisOtrosHobbies</p>
+      <h1>MisOtrosHobbies</h1>
     </div>
   )
 }

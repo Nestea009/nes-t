@@ -3,7 +3,7 @@ import "./styles/MisObras.css"
 export default function MisObras() {
      return (
        <div>
-         <p>MisObras</p>
+         <h1>MisObras</h1>
        </div>
      );
  }

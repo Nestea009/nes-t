@@ -9,14 +9,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
   margin: 0px;
-  padding: 0px;
   width: 200%;
-  margin-top: 5%;
+  background-color: lightgray;
 }
 
 .linkList a{
   margin-left: 0.5%;
   margin-right: 0.5%;
   text-align: center;
+  color: darkorange;
+  text-decoration: none;
 }
